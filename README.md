@@ -1,8 +1,8 @@
 #  Um pouco de mim
-- 👋 *Oi,meu nome é @brunot12*
-- 👀 Tenho 15 anos e estou cursando o ensino médio
+- 👋 **Oi,meu nome é @brunot12**
+- 👀 *Tenho 15 anos e estou cursando o ensino médio*
 - :money_mouth_face:Trabalho como jovem aprendiz
-- :star_struck:Amo fazer esportes
+- :star_struck:*Amo fazer esportes
 - 📫 Pode chegar a mim pelo meu instagram @brunotomes12
 
 <!---
